@@ -28,16 +28,16 @@ Feel free to enhance your project with captivating visuals that complement its d
 
 ---
 
-### Section 1: [Insert Section Title]
+### Section 1: [Home Page]
 
-[Insert Image 1 Here]
+![Image](https://github.com/brianondemand/3D-Portfolio/blob/main/public/images/2024-02-25_10-21.png)
 
-### Section 2: [Insert Section Title]
+### Section 2: [About Section]
 
-[Insert Image 2 Here]
+![Image](https://github.com/brianondemand/3D-Portfolio/blob/main/public/images/2024-02-25_10-22.png)
 
-### Section 3: [Insert Section Title]
+### Section 3: [Tech Section]
 
-[Insert Image 3 Here]
+![Image](https://github.com/brianondemand/3D-Portfolio/blob/main/public/images/2024-02-25_10-23.png)
 
 ---

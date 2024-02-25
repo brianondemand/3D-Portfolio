@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Stunning 3D Animated Portfolio Website
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+This project showcases a stunning 3D animated portfolio website developed using Next.js 14, Three.js, GSAP, Prismic, Kenny Game Assets, and Flat UI Colors. The integration of these technologies and resources allows for dynamic, interactive, and visually appealing web experiences.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js 14**: Leveraging the latest version of Next.js for efficient server-side rendering and enhanced performance.
+- **Three.js**: Implementing 3D graphics and animations to create visually engaging content.
+- **GSAP (GreenSock Animation Platform)**: Employing GSAP for seamless and sophisticated animations, adding polish and interactivity.
+- **Prismic**: Utilizing Prismic as a headless CMS for content management, facilitating easy updates and modifications to the website's content.
+- **Kenny Game Assets**: Incorporating high-quality game assets from Kenny for enriching visual elements and enhancing user experience.
+- **Flat UI Colors**: Utilizing Flat UI Colors for a modern and vibrant color palette, enhancing the overall aesthetics of the website.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How to Add Images
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To add images to the project, follow these steps:
 
-## Learn More
+1. **Identify Sections**: Determine the sections of the project where you want to add images.
+2. **Image Preparation**: Ensure that your images are properly formatted and optimized for the web.
+3. **Integration**:
+   - Locate the appropriate sections in the project files.
+   - Insert `<img>` tags pointing to the URLs or file paths of your images.
+4. **Test**: After integrating the images, thoroughly test the website to ensure proper display and functionality.
 
-To learn more about Next.js, take a look at the following resources:
+Feel free to enhance your project with captivating visuals that complement its design and purpose.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Section 1: [Insert Section Title]
 
-## Deploy on Vercel
+[Insert Image 1 Here]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Section 2: [Insert Section Title]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Insert Image 2 Here]
+
+### Section 3: [Insert Section Title]
+
+[Insert Image 3 Here]
+
+---
